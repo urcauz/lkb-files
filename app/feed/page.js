@@ -105,7 +105,7 @@ export default function FeedPage() {
                 <Lock className="h-6 w-6 text-white" />
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-indigo-400 to-violet-400 bg-clip-text text-transparent hidden sm:block">
-                Content Platform
+                Anda Files
               </span>
             </div>
 

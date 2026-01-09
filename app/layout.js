@@ -6,8 +6,8 @@ import SessionProvider from '@/components/SessionProvider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Content Platform',
-  description: 'Private content subscription platform',
+  title: 'Anda Files',
+  description: 'Private content (Gooning material)',
 }
 
 export default function RootLayout({ children }) {
