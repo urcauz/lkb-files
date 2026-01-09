@@ -77,10 +77,7 @@ export default function PendingPage() {
               <span className="text-gray-400">Username</span>
               <span className="text-white font-medium">{session.user.username}</span>
             </div>
-            <div className="flex justify-between">
-              <span className="text-gray-400">Email</span>
-              <span className="text-white font-medium">{session.user.email}</span>
-            </div>
+            
           </div>
 
           {/* Info */}
