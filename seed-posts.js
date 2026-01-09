@@ -1,3 +1,6 @@
+import { config } from 'dotenv'
+config()
+
 import connectDB from './lib/mongodb.js'
 import Post from './lib/models/Post.js'
 
