@@ -16,7 +16,7 @@ export const metadata = {
     siteName: 'Anda Files',
     images: [
       {
-        url: 'https://cdn.discordapp.com/attachments/1449763506311135305/1459246251160899838/Untitled_design_2.png',
+        url: 'https://cdn.discordapp.com/attachments/1449763506311135305/1459246251160899838/Untitled_design_2.png?ex=69629479&is=696142f9&hm=0c416809e52a2f59ea9d5d930052620a350a2a2e3113a15f5ff4a5077c5d0ee2&',
         width: 1200,
         height: 630,
         alt: 'Anda Files Cover',
@@ -30,7 +30,7 @@ export const metadata = {
     title: 'Anda Files',
     description: 'Private content (Gooning material)',
     images: [
-      'https://cdn.discordapp.com/attachments/1449763506311135305/1459246251160899838/Untitled_design_2.png',
+      'https://cdn.discordapp.com/attachments/1449763506311135305/1459246251160899838/Untitled_design_2.png?ex=69629479&is=696142f9&hm=0c416809e52a2f59ea9d5d930052620a350a2a2e3113a15f5ff4a5077c5d0ee2&',
     ],
   },
 }
